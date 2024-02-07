@@ -1,4 +1,6 @@
-### Hi there 👋
+### Let me take you on a tour across mind-me!
+#### I am like to understand how silicon turns to grey matter and makes our life easier to and connected.
+
 
 <!--
 **krala007/Krala007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
