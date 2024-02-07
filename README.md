@@ -1,5 +1,5 @@
 ### Let me take you on a tour across mind-me
-#### I like to understand how silicon turns into grey matter and makes our life easier and connected. Microcontroller, alogorithms and products!
+#### I like to understand how silicon turns into grey matter and makes our life easier and connected. Microcontroller, algorithms and products!
 
 
 <!--
